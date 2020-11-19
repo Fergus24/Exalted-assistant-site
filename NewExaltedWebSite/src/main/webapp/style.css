@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+body {
+			background-image: url(https://mengtzu.github.io/exalted/images/background.png);
+            background-repeat: repeat-y;
+            padding-left: 55px;
+        }
+#header { 
+            margin-bottom: 8px;
+        }
+.clear {
+            clear: both; 
+        }
+ #boilerplate {
+         margin-top: 100px;
+         width: 600px;
+         border-top: 2px solid #CCCCCC;
+         color: #CCCCCC;
+         font-size: 0.7em;
+        }
+.essayContent {
+            border: 3px solid #f10101;
+            background-color: white; 
+            padding: 4px;   
+            margin-bottom: 8px;
+            font-color: #999999;
+            width: 42%;
+            border-radius: 5px;
+         }
+         
+.menuButton {
+	 		border: 2px solid black;
+            text-align: center;
+            padding: 4px 0px 4px 8px;
+            border-radius: 4px;
+            width: 20%;
+            float: left;
+            margin-right: 10px;
+            background-color: white;
+         }
